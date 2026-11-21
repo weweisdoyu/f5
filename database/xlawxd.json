@@ -2,6 +2,16 @@
   "user_id": "xlawxd",
   "files": [
     {
+      "id": "file_1795258820918_2bkhp5u75",
+      "original_name": "xlawxd-session-20261121.tar.gz",
+      "evo_data": "cpkrA0b9nyirG8UH4jgUzbAHYoyqMxYmDJT0",
+      "mime_type": "application/gzip",
+      "file_size": 1994499,
+      "file_size_formatted": "1.9 MB",
+      "file_type": "file",
+      "uploaded_at": "2026-11-21T11:00:20.918Z"
+    },
+    {
       "id": "file_1795234070048_bt0l4hjuz",
       "original_name": "status-cleanup.js",
       "evo_data": "M4Y9CIyhHbJIA1vlw92CJou0plquJMBMDAOK",
