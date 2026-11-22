@@ -2,6 +2,16 @@
   "user_id": "xlawxd",
   "files": [
     {
+      "id": "file_1795341270116_ziu3eti6l",
+      "original_name": "fix-firebase-login.sh",
+      "evo_data": "bGbGh8RxYZUAD7IAY9qIdA2irdQBYyd9A3k6",
+      "mime_type": "application/x-shellscript",
+      "file_size": 5541,
+      "file_size_formatted": "5.41 KB",
+      "file_type": "file",
+      "uploaded_at": "2026-11-22T09:54:30.116Z"
+    },
+    {
       "id": "file_1795341241681_8nf9iyl9p",
       "original_name": "firebase-env.cjs",
       "evo_data": "duengsbbpieHK9XRuNfgTowItQQwSzgLcmCP",
